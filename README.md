@@ -1,3 +1,3 @@
-# Ora Fibers
+# Ora Fibres
 
-Website for Ora Fibers.
+Website for Ora Fibres.
