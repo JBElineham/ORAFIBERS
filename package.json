@@ -1,0 +1,9 @@
+{
+  "name": "ora-fibers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx wrangler pages dev",
+    "test": "node functions/api/waitlist.test.js"
+  }
+}
